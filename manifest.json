@@ -1,8 +1,8 @@
 {
   "id": "obsidian-bartender",
   "name": "Bartender",
-  "version": "0.5.9",
-  "minAppVersion": "1.2.0",
+  "version": "0.6.0",
+  "minAppVersion": "1.5.3",
   "description": "Allows for rearranging the elements in the status bar and sidebar ribbon",
   "author": "NothingIsLost",
   "authorUrl": "https://github.com/nothingislost",
