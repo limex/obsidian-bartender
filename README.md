@@ -1,4 +1,9 @@
-## Obsidian Bartender
+
+> [!WARNING]
+> Extension is currently not working. Fix vor Obsidian 1.5.8 is pending.  
+
+
+# Obsidian Bartender
 
 Take control of your Obsidian workspace by organizing, rearranging, and filtering nav bars, ribbon bars, status bars, and the file explorer.
 
@@ -39,3 +44,10 @@ White space acts as an **AND** operator, while a single pipe (`|`) character act
 ### Manually installing the plugin
 
 - Copy over `main.js`, `manifest.json` to your vault `VaultFolder/.obsidian/plugins/obsidian-bartender/`.
+
+### Building the code 
+
+npm install
+npm run dev 
+or
+nmp run build
